@@ -1,0 +1,25 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.csproj.user
+.vs/
+*.Dbg
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment
+.env
+appsettings.Local.json
+
+# NuGet
+packages/
+*.nupkg
